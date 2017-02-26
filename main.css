@@ -1,0 +1,79 @@
+h1{
+	color: #d65c85;
+	font-size: 86px;
+	font-family: "Skinny Marker", sans-serif;
+}
+
+#subtitle{
+	color: #FCE8E8;
+	font-size: 48px;
+	font-family: "Nelship", sans-serif;
+}
+
+#lname{
+	margin-left: 5%;
+	color: #8f2447;
+	font-size: 30px;
+	font-family: "DK Burobu", sans-serif;
+}
+
+#styleMe{
+	color: #FCE8E8;
+	font-size: 40px;
+	font-family: "Nelship", sans-serif;
+
+}
+
+#style{
+	color: #d65c85;
+	font-size: 40px;
+	font-family: "Nelship", sans-serif;
+}
+
+#normFeel{
+	
+	color: #8f2447;
+	font-size: 30px;
+	font-family: "DK Burobu", sans-serif;
+}
+
+#choice{
+	color: #8f2447;
+	font-size: 30px;
+	font-family: "DK Burobu", sans-serif;
+}
+
+#forum{
+		color: #d65c85;
+	font-size: 30px;
+	font-family: "Nelship", sans-serif;
+}
+
+#stylebutton{
+    font-family: "Nelship", sans-serif;
+	color:#d65c85;
+    font-size: 30px;
+    width: 200px;
+}
+
+#reviewbutton{
+	color: #FCE8E8;
+}
+
+#lizziegif{
+	border-style: dashed;
+	border-color: #8f2447;
+	padding: 7px;
+	border-spacing: 5px;
+
+}
+
+.swirl{
+    width: 300px;
+    
+}
+
+#outfitDiv{
+    margin-right: 15%;
+    width: 300px;
+}
